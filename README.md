@@ -1,5 +1,4 @@
 # Flowly-
-# Flowly
 
 **Simple goals. Simple tasks.**
 
