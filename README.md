@@ -1,4 +1,5 @@
 # Flowly-
+<img width="100" height="100" alt="Flowly_logo_text" src="https://github.com/user-attachments/assets/4bd2d396-0dd0-473a-b596-187d43d8255e" />
 
 **Simple goals. Simple tasks.**
 
