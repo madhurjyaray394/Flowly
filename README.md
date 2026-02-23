@@ -42,6 +42,6 @@ If Notion feels like too much, Flowly is for you.
 ---
 
 ## Status- 
-Under DEVELOPMENT
+Live
 
 
